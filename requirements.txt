@@ -1,6 +1,5 @@
 streamlit  
 numpy  
 pandas  
-plotly.express 
-calendar
+plotly.express
 utils.filters 
